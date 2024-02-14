@@ -20,7 +20,7 @@ const Home = () => {
         id: 3,
         title: '3abc',
         desc: '3abcabcabc123',
-        img: 'https://protraffic.com/wp-content/uploads/2022/06/99.jpg'
+        img: 'https://domsmam.com/wp-content/uploads/2020/04/dom-s-ploskoj-krishej-27.jpeg'
     }
   ]
   return (
